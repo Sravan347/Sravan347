@@ -28,14 +28,10 @@ I'm a **MERN Full Stack Developer** passionate about building web applications u
 ---
 
 ### 📫 How to reach me:
-- LinkedIn:(https://www.linkedin.com/in/yourprofile/)
-- Portfolio:(https://yourportfolio.com)
+
 - Email: sravansreyas3@email.com
 
-### 🌟 Fun Fact:
-I enjoy solving coding challenges on platforms like **LeetCode** and contributing to open-source projects. When I'm not coding, you'll find me exploring new technologies and experimenting with side projects.
 
----
 
 
 
